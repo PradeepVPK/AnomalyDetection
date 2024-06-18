@@ -1,0 +1,11 @@
+
+p
+java:S3740G"/Provide the parametrized type for this generic.(°’ŠÀùÿÿÿÿJ$6a490da1-e44f-4034-9628-832fb7579676
+’
+java:S2095X"VUse try-with-resources or close this "ScheduledExecutorService" in a "finally" clause.(š§çªJ$cfe32846-a75f-445f-95ee-c1f0a025d596
+m
+java:S3599G",Use another way to initialize this instance.(°’ŠÀùÿÿÿÿJ$69e1371f-b725-423f-8d49-4c691ee9848d
+š
+java:S1171G"YMove the contents of this initializer to a standard constructor or to field initializers.(°’ŠÀùÿÿÿÿJ$2ffa0389-8cab-48f4-bd79-413365e70ea0
+²
+java:S1130V"wRemove the declaration of thrown exception 'java.lang.InterruptedException', as it cannot be thrown from method's body.(º™Ú7J$395ef858-8163-4b4f-9deb-51b8ef6b73e2

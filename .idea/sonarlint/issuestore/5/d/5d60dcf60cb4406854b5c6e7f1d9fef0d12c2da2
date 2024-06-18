@@ -1,0 +1,16 @@
+
+—
+java:S2095)"VUse try-with-resources or close this "ScheduledExecutorService" in a "finally" clause.(ˆÁôÿÿÿÿÿJ$ade973dc-7e84-4a68-bcf2-9107481c96d3
+‰
+java:S2095G"MUse try-with-resources or close this "ExecutorService" in a "finally" clause.(™ÎäJ$02665c1b-a50a-4178-ab7d-9311f6c82b0a
+š
+java:S2142/"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(üŸ´ÂJ$940f5e7f-def5-47f6-a11e-9ebebd12ef88
+v
+java:S2864Ç"4Iterate over the "entrySet" instead of the "keySet".(€õÆÜÿÿÿÿÿJ$50d6cda7-d08d-4ec2-a35f-9442d05103f7
+l	java:S106ô"+Replace this use of System.out by a logger.(¤õÌ˜ÿÿÿÿÿJ$67bfb7d3-eb52-4712-9856-fd24e8cb8021
+n
+java:S1068"2Remove this unused "LINUX_VERSIONS" private field.(¸†˜ÏJ$1b2ab2ba-9aa3-457f-b8a9-c000aab8c433
+p
+java:S1068"4Remove this unused "WINDOWS_VERSIONS" private field.(ï¦¤ßJ$6ef08923-551b-4120-91dd-02cd1934e2bc
+l
+java:S1068"0Remove this unused "MAC_VERSIONS" private field.(›øÁ’J$bcdd5503-abe3-4f41-bff8-8d1eecbdcd7a

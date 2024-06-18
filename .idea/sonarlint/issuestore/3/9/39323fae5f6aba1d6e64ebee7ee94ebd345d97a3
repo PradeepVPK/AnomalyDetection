@@ -1,0 +1,21 @@
+
+„
+java:S11928"HDefine a constant instead of duplicating this literal "Windows" 4 times.(¦ëÏ¤J$a40664fd-1933-49ad-8120-f17f8cc42d2f
+‚
+java:S11928"FDefine a constant instead of duplicating this literal "Linux" 3 times.(¦ëÏ¤J$c3fd1f94-071b-4ebc-983e-f0688a3a82c9
+‚
+java:S11928"FDefine a constant instead of duplicating this literal "MacOS" 3 times.(¦ëÏ¤J$ef6e0e5c-9f1b-47ce-a038-0bb266f039ef
+m
+java:S3599:",Use another way to initialize this instance.(²·á­üÿÿÿÿJ$0fbb079b-858e-4b4d-830a-54b4a4a7bf2a
+š
+java:S1171:"YMove the contents of this initializer to a standard constructor or to field initializers.(²·á­üÿÿÿÿJ$40b4137d-f822-46cc-8a0c-35ad3f95c5eb
+Y
+java:S2119"Save and re-use this "Random".(Ì—J$095d3084-5237-480c-a871-07eeace80a78
+[
+java:S2119‚"Save and re-use this "Random".(æÛîöJ$cfc6ff44-dcb2-44c8-9005-7bfbe8da0fbc
+i
+java:S10683"-Remove this unused "NUM_FILES" private field.(Ö‡±J$dee2f5ef-0be3-488c-bfaa-4337470f8c7f
+h
+java:S10688",Remove this unused "OS_TYPES" private field.(¦ëÏ¤J$d5470451-cf07-4817-b63c-1d04c599e91d
+p
+java:S1068:"/Remove this unused "OS_VERSIONS" private field.(²·á­üÿÿÿÿJ$7af3d5ce-854d-49df-be58-6ec937e4730f
