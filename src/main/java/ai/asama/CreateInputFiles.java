@@ -50,7 +50,7 @@ public class CreateInputFiles {
 
     private static final int NUM_FILES = 100;
     private static final Gson GSON = new Gson();
-    private static final String DIRECTORY_PATH = "src/test/resources/input";
+    private static final String DIRECTORY_PATH = "src/main/resources/input";
 
     private static final List<String> MODELS = Arrays.asList("lenovo thinkpad", "dell xps", "macbook pro", "hp spectre");
     private static final List<String> OS_TYPES = Arrays.asList("Windows", "Linux", "MacOS");
