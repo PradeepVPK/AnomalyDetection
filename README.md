@@ -89,9 +89,12 @@ This class generates 100 sample input JSON files with random machine data. It is
 ####FactFileUpdater
 This class reads the input JSON files and updates the facts based on the machine data. It extracts relevant machine data and updates a map with attributes and associated machine names.
 
-##Output Screenshots
+##Output Screenshot
+
+![image](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/cff3d5cb-1184-4687-a63c-538cf0ba51c9)
 
 ##Code Coverage Screenshot
+
 ![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/b08eb141-646d-4776-9b4c-cab6dd942c53)
 ![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/a15465d4-9494-49e2-b429-13692a34d34f)
 ![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/bd23d22b-6151-4b27-ac9b-aa6cbd7f8d09)
