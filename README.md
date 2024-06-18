@@ -67,7 +67,7 @@ AnomalyDetector/
 ├── pom.xml
 └── README.md
 ```
-##Configuration
+## Configuration
 The main configuration parameters are defined in the AnomalyDetector class:
 
 FILE_BATCH_SIZE: Number of files to process in each batch.
@@ -79,21 +79,21 @@ Place your input JSON files in the src/main/resources/input directory.
 Run the application to start the anomaly detection process.
 The detected anomalies will be reported in the src/main/resources/output/anomalies.json file.
 
-##Classes
-####AnomalyDetector
+## Classes
+#### AnomalyDetector
 This is the main class that initiates the anomaly detection process. It reads data from the specified directory, detects anomalies, and writes the results to a JSON output file.
 
-####CreateInputFiles
+#### CreateInputFiles
 This class generates 100 sample input JSON files with random machine data. It is useful for testing the anomaly detection process with a large dataset.
 
-####FactFileUpdater
+#### FactFileUpdater
 This class reads the input JSON files and updates the facts based on the machine data. It extracts relevant machine data and updates a map with attributes and associated machine names.
 
-##Output Screenshot
+## Output Screenshot
 
 ![image](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/cff3d5cb-1184-4687-a63c-538cf0ba51c9)
 
-##Code Coverage Screenshot
+## Code Coverage Screenshot
 
 ![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/b08eb141-646d-4776-9b4c-cab6dd942c53)
 ![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/a15465d4-9494-49e2-b429-13692a34d34f)
@@ -101,7 +101,7 @@ This class reads the input JSON files and updates the facts based on the machine
 ![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/4a41f1f6-806f-445e-a431-e486d68178a2)
 
 
-##Dependencies
+## Dependencies
 The project relies on the following main dependencies:
 
 1. Google Gson for JSON parsing.
