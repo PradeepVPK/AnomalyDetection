@@ -20,7 +20,7 @@ AnomalyDetector is a Java-based application that performs anomaly detection on m
 ### Clone the Repository
 
 ```bash
-git clone [https://github.com/your-username/AnomalyDetector.git](https://github.com/PradeepVPK/AnomalyDetection.git)
+git clone [https://github.com/PradeepVPK/AnomalyDetector.git](https://github.com/PradeepVPK/AnomalyDetection.git)
 cd AnomalyDetector
 ```
 Build the Project
