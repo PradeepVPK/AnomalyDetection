@@ -67,17 +67,6 @@ AnomalyDetector/
 ├── pom.xml
 └── README.md
 ```
-## Configuration
-The main configuration parameters are defined in the AnomalyDetector class:
-
-FILE_BATCH_SIZE: Number of files to process in each batch.
-ANOMALY_THRESHOLD: Minimum number of occurrences to flag as anomaly.
-STANDARD_DEVIATION_THRESHOLD: Threshold for standard deviation.
-DETECTION_INTERVAL: Interval in minutes for running detection tasks.
-Usage
-Place your input JSON files in the src/main/resources/input directory.
-Run the application to start the anomaly detection process.
-The detected anomalies will be reported in the src/main/resources/output/anomalies.json file.
 
 ## Classes
 #### AnomalyDetector
