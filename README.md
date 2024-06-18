@@ -20,7 +20,7 @@ AnomalyDetector is a Java-based application that performs anomaly detection on m
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/AnomalyDetector.git
+git clone [https://github.com/your-username/AnomalyDetector.git](https://github.com/PradeepVPK/AnomalyDetection.git)
 cd AnomalyDetector
 ```
 Build the Project
@@ -90,14 +90,17 @@ This class generates 100 sample input JSON files with random machine data. It is
 This class reads the input JSON files and updates the facts based on the machine data. It extracts relevant machine data and updates a map with attributes and associated machine names.
 
 ##Output Screenshots
-Add your output screenshots here.
 
 ##Code Coverage Screenshot
+![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/b08eb141-646d-4776-9b4c-cab6dd942c53)
+![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/a15465d4-9494-49e2-b429-13692a34d34f)
+![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/bd23d22b-6151-4b27-ac9b-aa6cbd7f8d09)
+![image_720](https://github.com/PradeepVPK/AnomalyDetection/assets/108991867/4a41f1f6-806f-445e-a431-e486d68178a2)
 
 
 ##Dependencies
 The project relies on the following main dependencies:
 
-Google Gson for JSON parsing.
-1. JUnit for testing.
-2. JaCoCo for code coverage reporting.
+1. Google Gson for JSON parsing.
+2. JUnit & Mockito for testing.
+3. JaCoCo for code coverage reporting.
